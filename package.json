@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/NicolasTomasiDaSilva/ts-api-clean-arch/issues"
   },
-  "homepage": "https://github.com/NicolasTomasiDaSilva/ts-api-clean-arch#readme"
+  "homepage": "https://github.com/NicolasTomasiDaSilva/ts-api-clean-arch#readme",
+  "devDependencies": {
+    "typescript": "^5.8.3"
+  }
 }
